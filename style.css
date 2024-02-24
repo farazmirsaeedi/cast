@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'yekan';
+    src: url(assets/fonts/BYekan+.ttf);
+}
+
+.m-a-x-w{
+    max-width: 900px;
+    margin: 0 auto;
+}
